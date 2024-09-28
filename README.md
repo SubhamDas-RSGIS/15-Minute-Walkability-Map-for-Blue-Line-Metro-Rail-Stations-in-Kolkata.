@@ -1,1 +1,3 @@
 This repository contains the resources and code used to develop a web-based map that identifies areas within a 15-minute walking distance from metro rail stations in Kolkata, India. The map uses OpenStreetMap (OSM) data and the OSM Tools plugin in QGIS to perform spatial analysis, providing insights into urban accessibility. This tool can be particularly useful for route planning, urban development, and during major events like Durga Puja for efficient pandal-hopping navigation.
+Here Is the code 
+https://subhamdas-rsgis.github.io/15-Minute-Walkability-Map-for-Blue-Line-Metro-Rail-Stations-in-Kolkata./
